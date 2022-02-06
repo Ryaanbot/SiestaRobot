@@ -56,7 +56,7 @@ pm_about_notes_text: |
 pm_about_support_text: |
   *✺ Obrolan dukungan Robot Gabut Protection ✺*
 
-  Bergabunglah dengan Grup/Saluran Dukungan Saya untuk melihat atau melaporkan masalah di Siesta.
+  Bergabunglah dengan Grup/Saluran Dukungan Saya untuk melihat atau melaporkan masalah di Gabut Protection.
 pm_about_credit_text: |
   *✺ Credits for Gabut Protection ✺*
 
@@ -663,9 +663,9 @@ search_help: |
     ❂ /github <username>*:* Dapatkan informasi tentang pengguna GitHub.
     ❂ /country <nama negara>*:* Mengumpulkan info tentang negara tertentu
     ❂ /imdb <Nama film>*:* Dapatkan info lengkap tentang film dengan imdb.com
-    ❂ Siesta <query>*:* Siesta menjawab pertanyaan
+    ❂ GabutProtection <query>*:* GabutProtection menjawab pertanyaan
 
-    💡 Contoh : `Siesta di mana Jepang?`
+    💡 Contoh : `GabutProtection di mana Jepang?`
 stickers_help: |
     ──「 Stiker 」──
 
